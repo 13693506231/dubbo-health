@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+        <!DOCTYPE configuration
+                PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<properties>
+    <property name="dialect" value="mysql"/>
+</properties>
+<settings>
+    <!--映射mapper信息在log4j中打印出来-->
+    <setting name="logImpl" value="LOG4J"/>
+</settings>
+</configuration>
