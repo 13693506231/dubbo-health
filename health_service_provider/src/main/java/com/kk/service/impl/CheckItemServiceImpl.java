@@ -31,6 +31,27 @@ public class CheckItemServiceImpl implements CheckItemService {
 
     @Override
     public void addCheckItem(CheckItem checkItem) {
+        System.out.println("addCheckItem");
+        System.out.println(checkItem);
         checkItemDao.addItem(checkItem);
+    }
+
+    @Override
+    public CheckItem getOneItem( Integer itemid) {
+        System.out.println("CheckItemServiceImpl.getOneItem :"+itemid);
+        CheckItem checkItem = checkItemDao.getOneItem(itemid);
+        return checkItem;
+    }
+
+    @Override
+    public void editCheckItem(CheckItem checkItem) {
+        System.out.println("CheckItemServiceImpl.getOneItem :"+checkItem);
+        checkItemDao.editItem(checkItem);
+    }
+
+    @Override
+    public void getDelItem(Integer itemid) {
+        System.out.println("CheckItemServiceImpl.getOneItem :"+itemid);
+        checkItemDao.delItem(itemid);
     }
 }

@@ -8,6 +8,8 @@
 </properties>
 <settings>
     <!--映射mapper信息在log4j中打印出来-->
-    <setting name="logImpl" value="LOG4J"/>
+    <!--<setting name="logImpl" value="LOG4J"/>-->
+    <setting name="logImpl" value="STDOUT_LOGGING" />
+
 </settings>
 </configuration>

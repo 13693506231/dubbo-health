@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 <mapper namespace="com.kk.dao.CheckItemDao">
-    <insert id="addItem" parameterType="com.kk.pojo.CheckItem">
-        insert into t_checkitem (code, name, sex, age, price, type, attention, remark) values (#{code},#{name},#{sex},#{age},#{price},#{type},#{attention},#{remark})
+    <insert id="addItem" parameterType="checkItem">
+        insert into t_checkitem
+        values(null,#{code},#{name},#{sex},#{age},#{price},#{type},#{attention},#{remark})
     </insert>
+    <update id="editItem" parameterType="checkItem">
+        update t_checkitem set code=#{code},name=#{name},sex=#{sex},age=#{age},price=#{price},type=#{type},attention=#{attention},remark=#{remark} where id = #{id}
+    </update>
+    <delete id="delItem">
+        delete  from t_checkitem where id = #{itemid}
+    </delete>
 
-    <select id="selectByCondition" resultType="com.kk.pojo.CheckItem" parameterType="string">
+    <select id="selectByCondition" parameterType="string" resultType="com.kk.pojo.CheckItem" >
         select * from t_checkitem
         <if test="queryString != null  and queryString.length > 0 ">
             where name like concat("%",#{queryString},"%") or code  like concat("%",#{queryString},"%")
         </if>
+        order by id desc
     </select>
+    <select id="getOneItem" resultType="com.kk.pojo.CheckItem">
+        select * from t_checkitem where id = #{itemid}
+    </select>
+
 </mapper>
 

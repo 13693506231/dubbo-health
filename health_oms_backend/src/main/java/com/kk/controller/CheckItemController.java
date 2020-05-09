@@ -9,6 +9,8 @@ import com.kk.pojo.CheckItem;
 import com.kk.service.CheckItemService;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.zookeeper.Op;
+import org.springframework.validation.annotation.Validated;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -33,7 +35,7 @@ public class CheckItemController {
     @RequestMapping("/addItem")
     public Result addCheckItem(@RequestBody CheckItem checkItem){
         log.debug("add111{}",checkItem);
-/*        try {
+        try {
             if(checkItemService != null){
                 checkItemService.addCheckItem(checkItem);
                 return new Result(true,MessageConst.ADD_CHECKITEM_SUCCESS);
@@ -42,9 +44,59 @@ public class CheckItemController {
             }
         } catch (Exception e) {
             e.printStackTrace();
-        }*/
+        }
 
         return new Result(false,MessageConst.ADD_CHECKITEM_FAIL);
     }
+    @RequestMapping("/getOne")
+    public Result getOneItem( Integer itemid){
+        log.debug("addoneitem{}",itemid);
+        try {
+            if(checkItemService != null){
+                CheckItem one = checkItemService.getOneItem(itemid);
+                return new Result(true,MessageConst.QUERY_CHECKITEM_SUCCESS,one);
+            }else{
+                log.debug("checkItemService is null  ,未找到服务对象 2");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return new Result(false,MessageConst.QUERY_CHECKITEM_FAIL);
+    }
+    @RequestMapping("editItem")
+    public Result editItem(@RequestBody  CheckItem checkItem){
+        log.debug("editItem{}",checkItem);
+        try {
+            if(checkItemService != null){
+                checkItemService.editCheckItem(checkItem);
+                return new Result(true,MessageConst.EDIT_CHECKGROUP_SUCCESS);
+            }else{
+                log.debug("editItem checkItemService is null222 ,未找到服务对象");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return new Result(false,MessageConst.EDIT_CHECKGROUP_FAIL);
+    }
+
+
+    @RequestMapping("/delOne")
+    public Result getDelItem( Integer itemid){
+        log.debug("addoneitem{}",itemid);
+        try {
+            if(checkItemService != null){
+                checkItemService.getDelItem(itemid);
+                return new Result(true,MessageConst.DELETE_CHECKITEM_SUCCESS);
+            }else{
+                log.debug("checkItemService is null  ,未找到服务对象 2");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return new Result(false,MessageConst.DELETE_CHECKITEM_FAIL);
+    }
+
 
 }

@@ -232,6 +232,26 @@
                 //编辑
                 handleEdit() {
                     this.dialogFormVisible4Edit = false;
+                    // this.$refs['dataAddForm'].clearValidate();
+                    //
+                    // console.log(this.$refs['dataAddForm']);
+                    // this.$refs['dataAddForm'].validate((valid)=>{
+                    //     if(valid){
+                    //         console.log(this.formData);
+                            axios.post(this.url+"/checkItem/editItem.do",this.formData).then((res)=>{
+                                var data = res.data;
+                                if(data.flag){
+                                     this.$message.success(data.message);
+                                     this.findPage();
+                                }else{
+                                    this.$message.error(data.message);
+                                }
+                            })
+                        // }
+                        // else{
+                        //     this.$message.error("表单错误,新增失败");
+                        // }
+                    // })
                 },
                 //添加
                 handleAdd () {
@@ -241,7 +261,7 @@
                             console.log(this.formData);
                             axios.post(this.url+"/checkItem/addItem.do",this.formData).then((res)=>{
                                 var data = res.data;
-                                if(res.flag){
+                                if(data.flag){
                                     this.formData = {};
                                     this.$message.success(data.message);
                                 }else{
@@ -279,12 +299,22 @@
                 },
                 // 弹出添加窗口
                 handleCreate() {
+                    this.formData = {};
                     this.dialogFormVisible = true;
 
                 },
                 // 弹出编辑窗口
                 handleUpdate(row) {
                     this.dialogFormVisible4Edit = true;
+                    axios.get(this.url+"/checkItem/getOne.do?itemid="+row.id).then((res)=>{
+                        var data = res.data;
+                        if(data.flag){
+                            this.formData = data.data;
+                            this.$message.success(data.message);
+                        }else{
+                            this.$message.error(data.message);
+                        }
+                    })
 
                 },
                 //切换页码
@@ -294,6 +324,17 @@
                 },
                 // 删除
                 handleDelete(row) {
+                    this.$confirm("确定删除吗？","提示",{type:"warning"}).then(()=>{
+                        axios.get(this.url+"/checkItem/delOne.do?itemid="+row.id).then((res)=>{
+                            var data = res.data;
+                            if(data.flag){
+                                this.$message.success(data.message);
+                            }else{
+                                this.$message.error(data.message);
+                            }
+                        });
+                        this.findPage();
+                    })
 
                 }
             }

@@ -9,4 +9,11 @@ public interface CheckItemService {
     public PageResult getAllItem(QueryPageBean queryString);
 
     void addCheckItem(CheckItem checkItem);
+
+    CheckItem getOneItem(Integer itemid);
+
+    void editCheckItem(CheckItem checkItem);
+
+    void getDelItem(Integer itemid);
+
 }
