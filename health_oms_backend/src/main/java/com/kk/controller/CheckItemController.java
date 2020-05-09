@@ -43,6 +43,7 @@ public class CheckItemController {
         } catch (Exception e) {
             e.printStackTrace();
         }*/
+
         return new Result(false,MessageConst.ADD_CHECKITEM_FAIL);
     }
 
