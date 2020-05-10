@@ -324,15 +324,18 @@
                 },
                 // 删除
                 handleDelete(row) {
-                    axios.get(this.url+"/checkItem/delOne.do?itemid="+row.id).then((res)=>{
-                        var data = res.data;
-                        if(data.flag){
-                             this.$message.success(data.message);
-                        }else{
-                            this.$message.error(data.message);
-                        }
-                    });
-                    this.findPage();
+                    this.$confirm("确定删除吗？","提示",{type:"warning"}).then(()=>{
+                        axios.get(this.url+"/checkItem/delOne.do?itemid="+row.id).then((res)=>{
+                            var data = res.data;
+                            if(data.flag){
+                                this.$message.success(data.message);
+                            }else{
+                                this.$message.error(data.message);
+                            }
+                        });
+                        this.findPage();
+                    })
+
                 }
             }
         })

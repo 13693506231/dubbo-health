@@ -1,59 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckItemServiceImpl.java" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckItemServiceImpl.java" line="21" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0a2117c-d92a-46b9-a64d-3433541599a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b8f47ff4-3592-4619-9d86-4a86877a5a52.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/common/MessageConst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/entity/PageResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/entity/PageResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/entity/QueryPageBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/entity/QueryPageBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/entity/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/entity/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/CheckGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/CheckGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/CheckItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/CheckItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/OrderSetting.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/OrderSetting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Permission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Role.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Setmeal.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/Setmeal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/classes/com/kk/pojo/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_common/target/health_common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/health_common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/health_common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckItemService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_interface/target/classes/com/kk/service/CheckItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_interface/target/classes/com/kk/service/CheckItemService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_interface/target/health_interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/health_interface/target/health_interface-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_interface/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_interface/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/health_interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/health_interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckItemController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_oms_backend/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_backend/target/classes/com/kk/controller/CheckItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/classes/com/kk/controller/CheckItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_oms_backend/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/classes/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend.war" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend/WEB-INF/classes/com/kk/controller/CheckItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend/WEB-INF/classes/com/kk/controller/CheckItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend/WEB-INF/classes/com/kk/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend/WEB-INF/classes/com/kk/controller/LoginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend/WEB-INF/lib/health_common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend/WEB-INF/lib/health_common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend/WEB-INF/lib/health_interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/health_oms_backend/WEB-INF/lib/health_interface-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_backend/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_oms_backend/target/tomcat/logs/access_log.2020-05-08" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkitem.html" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkitem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_backend/target/tomcat/conf/logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_backend/target/tomcat/conf/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_backend/target/tomcat/conf/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_backend/target/tomcat/conf/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_web/target/health_oms_web.war" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_web/target/health_oms_web.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_web/target/health_oms_web/pages/checkitem.html" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_web/target/health_oms_web/pages/checkitem.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_oms_web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_oms_web/target/tomcat/logs/access_log.2020-05-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_web/target/tomcat/conf/logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_web/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_web/target/tomcat/conf/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_web/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_oms_web/target/tomcat/conf/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_oms_web/target/tomcat/conf/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_parent.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckItemDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckItemDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckItemDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckItemDao.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckItemServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_service_provider/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_service_provider/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/src/main/resources/mybatis-config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_service_provider/target/classes/com/kk/dao/CheckItemDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/classes/com/kk/dao/CheckItemDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_service_provider/target/classes/com/kk/mapper/CheckItemDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/classes/com/kk/mapper/CheckItemDao.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/health_service_provider/target/classes/com/kk/service/impl/CheckItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/classes/com/kk/service/impl/CheckItemServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_service_provider/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_service_provider/target/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/classes/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/health_service_provider/target/tomcat/logs/access_log.2020-05-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_service_provider/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_service_provider/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_service_provider/target/tomcat/conf/logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_service_provider/target/tomcat/conf/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/health_service_provider/target/tomcat/conf/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/health_service_provider/target/tomcat/conf/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -82,18 +80,30 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="dubbo_health@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="dubbo_health@127.0.0.1 [3]" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="dubbo_health@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="dubbo_health@127.0.0.1 [3]" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="dubbo_health@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="dubbo_health@127.0.0.1 [3]" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="dubbo_health: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dubbo_health@127.0.0.1 [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="dubbo_health: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="t_checkgroup: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dubbo_health@127.0.0.1 [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
     </expand>
     <select />
@@ -157,26 +167,80 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1198777741">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="8" />
+          <entry key="java" value="24" />
+          <entry key="js" value="1" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="3" />
+          <entry key="sql" value="4" />
+          <entry key="t_checkgroup" value="2" />
+          <entry key="xml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Database Element" value="2" />
+          <entry key="HTML" value="8" />
+          <entry key="JAVA" value="24" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="3" />
+          <entry key="Scratch" value="4" />
+          <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="740" />
+          <entry key="java" value="1480" />
+          <entry key="xml" value="559" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="740" />
+          <entry key="JAVA" value="1480" />
+          <entry key="SQL" value="9" />
+          <entry key="XML" value="550" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckItemDao.xml">
+        <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckGroupImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            <state relative-caret-position="528">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckItemController.java">
+        <entry file="file://$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkgroup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="95" column="32" lean-forward="true" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="401">
+              <caret line="377" column="41" selection-start-line="377" selection-start-column="41" selection-end-line="377" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -184,8 +248,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="400">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -193,17 +257,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkitem.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="334" column="27" lean-forward="true" selection-start-line="334" selection-start-column="27" selection-end-line="334" selection-end-column="27" />
+            <state relative-caret-position="315">
+              <caret line="326" column="64" selection-start-line="326" selection-start-column="34" selection-end-line="326" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckItemService.java">
+        <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckGroupDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="628">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -212,10 +276,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckItemServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckGroupDao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+            <state relative-caret-position="526">
+              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/executor/keygen/SelectKeyGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="91" column="67" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckGroupController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -224,13 +306,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckItemDao.java">
+        <entry file="file://$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckGroupService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="425">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -247,33 +338,13 @@
         <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="xmlmapper" />
         <option value="Mybatis Mapper" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>insert into</find>
-      <find>t_checkitem</find>
-      <find>insert</find>
-      <find>checkItem</find>
-      <find>code</find>
-      <find>handleUpdate</find>
-      <find>获取</find>
-      <find>select</find>
-      <find>项目编码</find>
-      <find>getOneItem</find>
-      <find>getOne</find>
-      <find>dataEditForm</find>
-      <find>add-form</find>
-      <find>dialogFormVisible4Edit</find>
-      <find>resetForm</find>
-      <find>Close</find>
-      <find>addItem</find>
-      <find>addoneitem</find>
-      <find>aaa</find>
-      <find>编辑检查</find>
-      <find>33333</find>
       <find>dataAddForm</find>
       <find>rule</find>
       <find>valu</find>
@@ -283,6 +354,27 @@
       <find>editItem</find>
       <find>queryString</find>
       <find>handleEdit</find>
+      <find>序号</find>
+      <find>create</find>
+      <find>log4j</find>
+      <find>slf4j-api</find>
+      <find>lombok</find>
+      <find>scan</find>
+      <find>getPage</find>
+      <find>Create</find>
+      <find>tableData</find>
+      <find>checkItem</find>
+      <find>getAllItems</find>
+      <find>dataList</find>
+      <find>findPage</find>
+      <find>checkitemIds</find>
+      <find>t_checkgroup</find>
+      <find>checkgroup</find>
+      <find>editGroup</find>
+      <find>groupid</find>
+      <find>getCheckedItem</find>
+      <find>dialogFormVisible</find>
+      <find>confirm</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -313,20 +405,27 @@
         <option value="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckItemDao.xml" />
         <option value="$PROJECT_DIR$/health_service_provider/src/main/resources/spring-dao.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/health_oms_backend/pom.xml" />
         <option value="$PROJECT_DIR$/health_service_provider/pom.xml" />
         <option value="$PROJECT_DIR$/health_oms_web/pom.xml" />
         <option value="$PROJECT_DIR$/health_oms_backend/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckItem.java" />
         <option value="$PROJECT_DIR$/health_service_provider/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/health_service_provider/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkitem.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/health_oms_backend/pom.xml" />
+        <option value="$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckItemController.java" />
         <option value="$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckItemService.java" />
         <option value="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckItemServiceImpl.java" />
         <option value="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckItemDao.java" />
         <option value="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckItemDao.xml" />
-        <option value="$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkitem.html" />
-        <option value="$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckItemController.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckGroup.java" />
+        <option value="$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckGroupService.java" />
+        <option value="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckGroupDao.java" />
+        <option value="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckGroupDao.xml" />
+        <option value="$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckGroupImpl.java" />
+        <option value="$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckGroupController.java" />
+        <option value="$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkgroup.html" />
       </list>
     </option>
   </component>
@@ -345,9 +444,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\develop\apache-maven-3.3.9-bin\repository" />
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-        <option name="userSettingsFile" value="E:\develop\apache-maven-3.3.9-bin\conf\settings.xml" />
+        <option name="localRepository" value="D:\develop\apache-maven-3.3.9-bin\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.3.9-bin" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.3.9-bin\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -373,11 +472,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1929" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-31" />
+    <option name="y" value="171" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -386,20 +486,216 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="health_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="health_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kk" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_oms_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kk" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kk" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kk" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kk" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dubbo-health" type="462c0819:PsiDirectoryNode" />
+              <item name="health_service_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -408,29 +704,34 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589007515932" />
-    <property name="last_opened_file_path" value="E:/BaiduNetdiskDownload/02就业/第二阶段/第二阶段课件/42-58天课件/42-58天课件/day43_项目1-健康医疗项目/02-源代码/02_实现代码/itcast_health" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589103578728" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="D:/java课件/课件/第二阶段课件/42-58天课件/day44_项目1-健康医疗项目/02-源代码/02_实现代码/itcast_health" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15722656" />
     <property name="project.structure.side.proportion" value="0.23870221" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\develop\code\health_parent\health_service_provider\src\main\java\com\kk\mapper" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kk.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\code\dubbo_parent_my\dubbo-health\health_oms_web\src\main\webapp\pages" />
+      <recent name="E:\develop\code\health_parent\health_common\src\main\java\com\kk" />
+      <recent name="E:\develop\code\health_parent\health_oms_web\src\main\webapp" />
+      <recent name="E:\develop\code\health_parent\health_oms_backend\src\main\webapp\WEB-INF" />
+      <recent name="E:\develop\code\health_parent\health_oms_backend\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kk.service.impl" />
       <recent name="com.kk.service" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\develop\code\health_parent\health_common\src\main\java\com\kk" />
-      <recent name="E:\develop\code\health_parent\health_oms_web\src\main\webapp" />
-      <recent name="E:\develop\code\health_parent\health_oms_backend\src\main\webapp\WEB-INF" />
-      <recent name="E:\develop\code\health_parent\health_oms_backend\src\main\resources" />
-      <recent name="E:\develop\code\health_parent\health_service_provider\src\main\webapp\WEB-INF" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\code\dubbo_parent_my\dubbo-health\health_service_provider\src\main\java\com\kk\mapper" />
+      <recent name="E:\develop\code\health_parent\health_service_provider\src\main\java\com\kk\mapper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -445,7 +746,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.health_oms_backend [tomcat7:run]">
+  <component name="RunManager" selected="Maven.health_oms_web [tomcat7:run]">
     <configuration name="health_oms_backend [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -551,11 +852,17 @@
       <workItem from="1588902718919" duration="13921000" />
       <workItem from="1588924288893" duration="1946000" />
       <workItem from="1588991532448" duration="11960000" />
+      <workItem from="1589091919713" duration="2132000" />
+      <workItem from="1589094747702" duration="774000" />
+      <workItem from="1589095758812" duration="2272000" />
+      <workItem from="1589098089158" duration="5438000" />
+      <workItem from="1589104629934" duration="272000" />
+      <workItem from="1589104922902" duration="3815000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41778000" />
+    <option name="totallyTimeSpent" value="56481000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -567,10 +874,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27010724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -580,25 +887,27 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.1858156" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.23968785" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.39432624" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.393534" />
       <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49932975" weight="0.32765958" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.32765958" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.53900707" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.32664436" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.3645485" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.033994336" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3277592" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.3277592" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Log4jMonitor" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.29758713" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32707775" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.29744136" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32675907" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -610,35 +919,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/health_interface/src/main/java/com/kk/App.java" />
-    <entry file="file://$PROJECT_DIR$/health_oms_web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/resources/aaa.xml" />
-    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar!/lombok/Data.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -654,25 +934,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/health_oms_web/src/main/webapp/css/login.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b8f47ff4-3592-4619-9d86-4a86877a5a52/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/entity/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/health_interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -681,45 +944,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/entity/PageResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/entity/QueryPageBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/apache/zookeeper/zookeeper/3.4.13/zookeeper-3.4.13.jar!/org/apache/zookeeper/ClientCnxnSocketNIO.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="151" selection-start-line="151" selection-end-line="151" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar!/lombok/extern/slf4j/Slf4j.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/apache/zookeeper/zookeeper/3.4.13/zookeeper-3.4.13.jar!/org/apache/zookeeper/ClientCnxnSocketNIO.class" />
+    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar!/lombok/extern/slf4j/Slf4j.class" />
     <entry file="file://$PROJECT_DIR$/health_service_provider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -727,48 +953,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE.jar!/org/springframework/validation/annotation/Validated.class" />
+    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/common/MessageConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/bind/annotation/PathVariable.class" />
+    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar!/lombok/extern/slf4j/Slf4j.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/health_oms_backend/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="1625">
+          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="2800">
+          <caret line="112" column="24" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/resources/spring-dubbo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
+    <entry file="file://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.pom">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/health_oms_web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/entity/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/entity/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b8f47ff4-3592-4619-9d86-4a86877a5a52/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6ba16fc6-707b-4551-9cb6-3ce11641ac4a/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed1e3eed-7e7e-443c-911c-860340e8aab6/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/95289d83-4443-4a04-9883-1eee7b5ff894/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/resources/spring-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/resources/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-203">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+          <caret line="39" column="53" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -781,7 +1063,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="300">
           <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
         </state>
       </provider>
@@ -793,102 +1075,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/resources/spring-dao.xml">
+    <entry file="das://95289d83-4443-4a04-9883-1eee7b5ff894/schema/dubbo_health/table/t_checkgroup" />
+    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/entity/QueryPageBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE.jar!/org/springframework/validation/annotation/Validated.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/common/MessageConst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../apache-maven-3.3.9-bin/repository/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE.jar!/org/springframework/web/bind/annotation/PathVariable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckItemServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        <state relative-caret-position="202">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckItemDao.java">
+    <entry file="file://$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckItemService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckItemDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkitem.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="334" column="27" lean-forward="true" selection-start-line="334" selection-start-column="27" selection-end-line="334" selection-end-column="27" />
+        <state relative-caret-position="277">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckItemController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="95" column="32" lean-forward="true" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+        <state relative-caret-position="427">
+          <caret line="105" column="82" selection-start-line="105" selection-start-column="82" selection-end-line="105" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckItemDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckItemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_oms_web/src/main/webapp/plugins/elementui/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="38" column="340529" selection-start-line="38" selection-start-column="340529" selection-end-line="38" selection-end-column="340529" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/executor/keygen/SelectKeyGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="91" column="67" selection-start-line="91" selection-start-column="66" selection-end-line="91" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_common/src/main/java/com/kk/pojo/CheckGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_interface/src/main/java/com/kk/service/CheckGroupService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/dao/CheckGroupDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/service/impl/CheckGroupImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_oms_backend/src/main/java/com/kk/controller/CheckGroupController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_service_provider/src/main/java/com/kk/mapper/CheckGroupDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkitem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="326" column="64" selection-start-line="326" selection-start-column="34" selection-end-line="326" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health_oms_web/src/main/webapp/pages/checkgroup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="377" column="41" selection-start-line="377" selection-start-column="41" selection-end-line="377" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="400">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -911,11 +1243,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.23870221" />
               </list>
             </option>
           </splitter-proportions>
@@ -926,7 +1258,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.23870221" />
               </list>
             </option>
           </splitter-proportions>
@@ -938,7 +1270,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.23870221" />
               </list>
             </option>
           </splitter-proportions>
@@ -971,11 +1303,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.alibaba:druid:1.1.6</last-edited>
+          <last-edited>Maven: org.projectlombok:lombok:1.18.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.23870221" />
               </list>
             </option>
           </splitter-proportions>

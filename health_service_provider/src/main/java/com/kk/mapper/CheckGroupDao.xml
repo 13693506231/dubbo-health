@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.kk.dao.CheckGroupDao">
+    <insert id="addGroup">
+        insert into t_checkgroup (code, name, helpCode, sex, remark, attention) values (#{code}, #{name}, #{helpCode}, #{sex}, #{remark}, #{attention})
+        <selectKey keyProperty="id" resultType="int" order="AFTER">
+          select last_insert_id()
+        </selectKey>
+    </insert>
+    <insert id="addCheckItems">
+        insert into t_checkgroup_checkitem (checkgroup_id,checkitem_id) values (#{checkgroup_id},#{checkitem_id})
+    </insert>
+    <update id="editGroup">
+        update  t_checkgroup set code = #{code}, name=#{name}, helpCode = #{helpCode}, sex =  #{sex}, remark = #{remark},attention= #{attention} where id = #{id}
+    </update>
+    <delete id="delCheckedCheckItems">
+        delete  from t_checkgroup_checkitem where checkgroup_id = #{checkgroup_id}
+    </delete>
+    <delete id="delGroupAll">
+        delete  from t_checkgroup where id = #{groupid}
+    </delete>
+    <select id="queryGroup" resultType="com.kk.pojo.CheckGroup">
+        select * from t_checkgroup
+        <if test="queryString!=null and queryString.length >0">
+            where helpCode  like concat('%',#{queryString},'%') or name like concat('%',#{queryString},'%') or code like concat('%',#{queryString},'%')
+        </if>
+        order by id desc
+     </select>
+    <select id="getGroupOneById" resultType="com.kk.pojo.CheckGroup">
+        select * from t_checkgroup where id = #{id}
+    </select>
+    <select id="getCheckedItem" resultType="java.lang.Integer">
+        select checkitem_id from t_checkgroup_checkitem where checkgroup_id = #{groupid}
+    </select>
+</mapper>

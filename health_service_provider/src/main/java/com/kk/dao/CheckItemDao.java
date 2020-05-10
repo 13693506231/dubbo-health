@@ -4,6 +4,8 @@ import com.github.pagehelper.Page;
 import com.kk.pojo.CheckItem;
 import org.apache.ibatis.annotations.Param;
 
+import java.util.List;
+
 public interface CheckItemDao {
     Page<CheckItem> selectByCondition( @Param("queryString") String queryString);
 
@@ -15,5 +17,7 @@ public interface CheckItemDao {
     void editItem( CheckItem checkItem);
 
     void delItem(@Param("itemid") Integer itemid);
+
+    List<CheckItem> getAllItems();
 
 }

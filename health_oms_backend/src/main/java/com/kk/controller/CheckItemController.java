@@ -8,12 +8,11 @@ import com.kk.entity.Result;
 import com.kk.pojo.CheckItem;
 import com.kk.service.CheckItemService;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.zookeeper.Op;
-import org.springframework.validation.annotation.Validated;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.List;
 
 @RequestMapping("/checkItem")
 @RestController
@@ -34,7 +33,7 @@ public class CheckItemController {
     }
     @RequestMapping("/addItem")
     public Result addCheckItem(@RequestBody CheckItem checkItem){
-        log.debug("add111{}",checkItem);
+         log.debug("add111{}",checkItem);
         try {
             if(checkItemService != null){
                 checkItemService.addCheckItem(checkItem);
@@ -96,6 +95,18 @@ public class CheckItemController {
             e.printStackTrace();
         }
         return new Result(false,MessageConst.DELETE_CHECKITEM_FAIL);
+    }
+
+
+    @RequestMapping("/getAllItems")
+    public Result getCheckItemAll(){
+        System.out.println("CheckItemController.getCheckItemAll");
+         List<CheckItem> allItem = checkItemService.getAll();
+        if(allItem.size() > 0){
+            return new Result(true, MessageConst.QUERY_CHECKITEM_SUCCESS,allItem);
+        }else{
+            return new Result(false, MessageConst.QUERY_CHECKITEM_FAIL);
+        }
     }
 
 

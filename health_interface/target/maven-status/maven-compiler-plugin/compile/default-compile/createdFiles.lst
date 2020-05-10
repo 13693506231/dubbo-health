@@ -1,2 +1,3 @@
 com\kk\service\UserService.class
+com\kk\service\CheckGroupService.class
 com\kk\service\CheckItemService.class

@@ -1,3 +1,5 @@
+com\kk\dao\CheckGroupDao.class
+com\kk\service\impl\CheckGroupImpl.class
 com\kk\service\impl\CheckItemServiceImpl.class
 com\kk\dao\CheckItemDao.class
 com\kk\service\impl\UserServiceImpl.class

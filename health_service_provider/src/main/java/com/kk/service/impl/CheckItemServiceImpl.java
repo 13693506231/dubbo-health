@@ -13,6 +13,8 @@ import com.kk.service.CheckItemService;
 import com.kk.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import java.util.List;
+
 @Service
 public class CheckItemServiceImpl implements CheckItemService {
     @Autowired
@@ -53,5 +55,11 @@ public class CheckItemServiceImpl implements CheckItemService {
     public void getDelItem(Integer itemid) {
         System.out.println("CheckItemServiceImpl.getOneItem :"+itemid);
         checkItemDao.delItem(itemid);
+    }
+
+    @Override
+    public List<CheckItem> getAll() {
+        List<CheckItem> checkItems = checkItemDao.getAllItems();
+        return checkItems;
     }
 }
