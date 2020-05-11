@@ -26,3 +26,11 @@ out/
 .gradle/
 
 jars/
+
+
+.idea/workspace.xml
+*.iml
+/**/*.iml
+/*/target/
+target
+.idea/dataSources.local.xml

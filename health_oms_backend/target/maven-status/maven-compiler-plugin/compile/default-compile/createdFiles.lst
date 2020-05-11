@@ -1,3 +1,4 @@
 com\kk\controller\CheckItemController.class
+com\kk\controller\SetmealController.class
 com\kk\controller\CheckGroupController.class
 com\kk\controller\LoginController.class
