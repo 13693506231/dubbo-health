@@ -70,4 +70,10 @@ public class CheckGroupImpl implements CheckGroupService {
         checkGroupDao.delCheckedCheckItems(groupid);
 
     }
+
+    @Override
+    public List<CheckGroup> getAllGroup() {
+        List<CheckGroup> checkGroups   =checkGroupDao.getAllCheckGroup();
+        return checkGroups;
+    }
 }

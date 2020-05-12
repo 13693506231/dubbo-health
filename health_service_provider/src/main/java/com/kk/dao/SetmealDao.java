@@ -9,4 +9,19 @@ import java.util.List;
 public interface SetmealDao {
 
     Page<Setmeal> getPageSetMeal(@Param("queryString") String queryString);
+
+    void addSetmeal(Setmeal setmeal);
+
+    void delCheckGroup(@Param("id") Integer id);
+
+
+    void addCheckGroup(@Param("id") Integer id,@Param("checkgroupId")  Integer checkgroupId);
+
+    Setmeal getSetmealByid(@Param("id") Integer id);
+
+    List<Integer> getSetmealCheckIds(@Param("id") Integer id);
+
+    void editSetmeal(Setmeal setmeal);
+
+    void delSetmealByid(@Param("id") Integer id);
 }

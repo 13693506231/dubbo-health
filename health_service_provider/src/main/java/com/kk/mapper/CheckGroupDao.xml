@@ -32,4 +32,7 @@
     <select id="getCheckedItem" resultType="java.lang.Integer">
         select checkitem_id from t_checkgroup_checkitem where checkgroup_id = #{groupid}
     </select>
+    <select id="getAllCheckGroup" resultType="com.kk.pojo.CheckGroup">
+        select * from t_checkgroup
+    </select>
 </mapper>

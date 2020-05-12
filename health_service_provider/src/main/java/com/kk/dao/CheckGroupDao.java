@@ -25,4 +25,6 @@ public interface CheckGroupDao {
     List<Integer> getCheckedItem(@Param("groupid") Integer groupid);
 
     void delGroupAll(@Param("groupid") Integer groupid);
+
+    List<CheckGroup> getAllCheckGroup();
 }
